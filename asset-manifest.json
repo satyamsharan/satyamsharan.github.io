@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/satyamsharan.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/satyamsharan.github.io/static/js/main.9f82025b.js",
+    "main.js": "/satyamsharan.github.io/static/js/main.9cd746d8.js",
     "static/js/787.a0811daf.chunk.js": "/satyamsharan.github.io/static/js/787.a0811daf.chunk.js",
-    "static/media/logo.svg": "/satyamsharan.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/satyamsharan.github.io/static/media/logo.d5703f0cff969d3167c72fd8284f041a.svg",
     "index.html": "/satyamsharan.github.io/index.html",
     "main.073c9b0a.css.map": "/satyamsharan.github.io/static/css/main.073c9b0a.css.map",
-    "main.9f82025b.js.map": "/satyamsharan.github.io/static/js/main.9f82025b.js.map",
+    "main.9cd746d8.js.map": "/satyamsharan.github.io/static/js/main.9cd746d8.js.map",
     "787.a0811daf.chunk.js.map": "/satyamsharan.github.io/static/js/787.a0811daf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9f82025b.js"
+    "static/js/main.9cd746d8.js"
   ]
 }
